@@ -1,4 +1,4 @@
-### Hi there 👋, I'm
+### Hi there 👋, I'm Álvaro Martínez
 
 - 🔭 I’m currently working as lead frontend developer @[Spotlab](https://www.spotlab.org/)
 - 🌱 I’m currently learning NX & monorepos, tailwindcss, trying to master Angular & hacking some game ideas using [boardgame.io](https://boardgame.io/)
