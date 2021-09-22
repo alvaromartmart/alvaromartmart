@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Álvaro Martínez
 
-- 🔭 I’m currently working as lead frontend developer @[Spotlab](https://www.spotlab.org/)
+- 🔭 I’m currently working as frontend software engineer @[Seqera Labs](https://www.seqera.io/)
 - 🌱 I’m currently learning NX & monorepos, tailwindcss, trying to master Angular & hacking some game ideas using [boardgame.io](https://boardgame.io/)
 - 👯 I’m looking to collaborate on Angular/[OpenSeadragon](https://openseadragon.github.io/) related OSS projects
 - 📫 How to reach me: [twitter: @alvaromartmart](https://twitter.com/home), [LinkedIn](https://www.linkedin.com/in/alvaromartmart/)
