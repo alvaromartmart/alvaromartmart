@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as frontend software engineer @[Seqera Labs](https://www.seqera.io/)
 - 🧠 Experienced with `angular`+`angular material`+`rxjs`+`NX tools`+`Cypress`
-- 🌱 I’m currently `playwright`, playing with `Remix.run`, tailwindcss & hacking some game ideas using [boardgame.io](https://boardgame.io/)
+- 🌱 I’m currently learning `playwright`, playing with `Remix.run`, tailwindcss & hacking some game ideas using [boardgame.io](https://boardgame.io/)
 - 👯 I’m looking to collaborate on Angular/[OpenSeadragon](https://openseadragon.github.io/) related OSS projects
 - 👨🏻‍🎓 Want yo know more about me? Check my [CV](https://www.getmanfred.com/profile/alvaromartmart)
 - 📫 How to reach me: [twitter: @alvaromartmart](https://twitter.com/home), [LinkedIn](https://www.linkedin.com/in/alvaromartmart/)
