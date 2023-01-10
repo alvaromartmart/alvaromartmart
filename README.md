@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Álvaro Martínez
 
-- 🔭 I’m currently working as frontend software engineer @[Seqera Labs](https://www.seqera.io/)
+- 🔭 I’m currently working as Frontend Tech Lead @[Seqera Labs](https://www.seqera.io/)
 - 🧠 Experienced with `angular`+`angular material`+`rxjs`+`NX tools`+`Cypress`
 - 🌱 I’m currently learning `playwright`, playing with `Remix.run`, tailwindcss & hacking some game ideas using [boardgame.io](https://boardgame.io/)
 - 👯 I’m looking to collaborate on Angular related OSS projects
