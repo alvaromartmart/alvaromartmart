@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Álvaro Martínez
 
 - 🔭 I’m currently working as Frontend Tech Lead @[Seqera Labs](https://www.seqera.io/)
-- 🧠 Experienced with `angular`+`angular material`+`rxjs`+`NX tools`+`Cypress`
-- 🌱 I’m currently learning `playwright`, playing with `Remix.run`, tailwindcss & hacking some game ideas using [boardgame.io](https://boardgame.io/)
+- 🧠 Experienced with `angular`+`angular material`+`rxjs`+`NX tools`+`Cypress`+`playwright`
 - 👯 I’m looking to collaborate on Angular related OSS projects
 - 👨🏻‍🎓 Want yo know more about me? Check my [CV](https://www.getmanfred.com/profile/alvaromartmart)
-- 📫 How to reach me: [twitter: @alvaromartmart](https://twitter.com/home), [LinkedIn](https://www.linkedin.com/in/alvaromartmart/)
+- 📫 How to reach me: [twitter: @alvaromartmart](https://twitter.com/alvaromartmart), [LinkedIn](https://www.linkedin.com/in/alvaromartmart/)
 - 😄 Pronouns: He/Him
 
 ![alvaromartmart's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaromartmart&count_private=true&show_icons=true&theme=radical)
