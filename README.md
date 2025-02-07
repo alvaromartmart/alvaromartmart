@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Currently learning `Astro`, `React`
 - 👯 I’m looking to collaborate on Angular related OSS projects
 - 👨🏻‍🎓 Want yo know more about me? Check my [CV](https://www.getmanfred.com/profile/alvaromartmart)
-- 📫 How to reach me: [twitter: @alvaromartmart](https://twitter.com/alvaromartmart), [LinkedIn](https://www.linkedin.com/in/alvaromartmart/)
+- 📫 How to reach me: [twitter: @alvaromartmart](https://twitter.com/alvaromartmart), [LinkedIn](https://www.linkedin.com/in/alvaromartmart/), [alvaromartmart.bsky.social](https://bsky.app/profile/alvaromartmart.bsky.social)
 - 😄 Pronouns: He/Him
 
 ![alvaromartmart's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaromartmart&count_private=true&show_icons=true&theme=radical)
